@@ -15,7 +15,7 @@
 
 ## 01 / Product leader who still builds
 
-<img align="right" width="390" src="./assets/mason-builder-live.gif" alt="Mason Hsu building product roadmaps and AI agent workflows" />
+<img align="right" width="390" src="./assets/mason-builder.png" alt="Mason Hsu building product roadmaps and AI agent workflows" />
 
 I'm **Mason Hsu** — a product leader and hands-on builder working across **AI, product strategy, systems, and 0→1 ventures**.
 

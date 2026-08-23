@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mason Hsu — Product Builder and AI Leader</title>
+  <desc id="desc">Minimal dark profile banner for Mason Hsu, focused on product, AI, systems, and zero-to-one building.</desc>
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F6FEB" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#1F6FEB"/>
+      <stop offset="1" stop-color="#79C0FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="26" fill="#0D1117"/>
+
+  <g opacity="0.42" stroke="#21262D" stroke-width="1">
+    <path d="M0 60 H1200"/>
+    <path d="M0 120 H1200"/>
+    <path d="M0 180 H1200"/>
+    <path d="M0 240 H1200"/>
+    <path d="M240 0 V300"/>
+    <path d="M480 0 V300"/>
+    <path d="M720 0 V300"/>
+    <path d="M960 0 V300"/>
+  </g>
+
+  <circle cx="1010" cy="95" r="175" fill="url(#glow)"/>
+
+  <g transform="translate(68 54)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial">
+    <rect x="0" y="2" width="10" height="10" rx="2.5" fill="#2F81F7"/>
+    <text x="23" y="12" font-size="13" font-weight="750" letter-spacing="2.2" fill="#8B949E">PRODUCT BUILDER · AI R&amp;D · 0→1</text>
+
+    <text x="0" y="89" font-size="65" font-weight="800" letter-spacing="-2.7" fill="#F0F6FC">MASON HSU</text>
+    <rect x="0" y="109" width="192" height="5" rx="2.5" fill="url(#line)"/>
+
+    <text x="0" y="157" font-size="22" font-weight="680" fill="#C9D1D9">PRODUCT × AI × SYSTEMS × VENTURES</text>
+    <text x="0" y="193" font-size="16" fill="#8B949E">I turn ambiguous problems into products people can actually use.</text>
+  </g>
+
+  <g transform="translate(888 80)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="0" y="0" font-size="12" font-weight="700" letter-spacing="1.5" fill="#8B949E">BUILD MODE</text>
+    <text x="0" y="77" font-size="76" font-weight="800" letter-spacing="-6" fill="#F0F6FC">0→1</text>
+    <text x="4" y="111" font-size="12" fill="#58A6FF">discover / build / ship / learn</text>
+    <rect x="4" y="137" width="8" height="16" rx="1" fill="#58A6FF">
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <path d="M68 269 H1132" stroke="#30363D"/>
+  <text x="68" y="287" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1" fill="#6E7681">TAIPEI · BUILDING AI-NATIVE PRODUCTS · SHIPPING WORKING SOFTWARE</text>
+</svg>

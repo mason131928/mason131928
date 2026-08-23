@@ -1,28 +1,21 @@
-pyenv: cannot rehash: /Users/mason131928/.pyenv/shims isn't writable
-<table>
-<tr>
-<td width="50%" valign="middle">
-<img src="./assets/hero-copy.svg" width="100%" alt="Mason Hsu — Chief Product Officer, Head of AI, and product builder" />
-</td>
-<td width="50%" valign="middle">
-<img src="./assets/mason-builder-live.gif" width="100%" alt="Mason Hsu building product roadmaps and AI agent workflows" />
-</td>
-</tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/mason131928"><img src="https://komarev.com/ghpvc/?username=mason131928&amp;label=Profile%20Views&amp;color=2f81f7&amp;style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/mason131928?tab=followers"><img src="https://img.shields.io/github/followers/mason131928?label=Followers&amp;style=for-the-badge&amp;logo=github&amp;color=2f81f7" alt="GitHub followers" /></a>
-  <a href="https://www.linkedin.com/in/mason131928/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Mason Hsu on LinkedIn" /></a>
-</p>
+<img src="./assets/mason-banner.svg" width="100%" alt="Mason Hsu — Product Builder and AI Leader" />
 
-<p align="center">
-  <a href="https://x.com/mason131928"><img src="https://img.shields.io/badge/X-%40mason131928-111111?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Follow Mason Hsu on X" /></a>
-  <a href="https://substack.com/@mason131929"><img src="https://img.shields.io/badge/Substack-Read-FF6719?style=for-the-badge&amp;logo=substack&amp;logoColor=white" alt="Read Mason Hsu on Substack" /></a>
-  <a href="https://www.masonfoundry.com/"><img src="https://img.shields.io/badge/Mason_Foundry-US_LLC-1F6FEB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit Mason Foundry US LLC" /></a>
-</p>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=2800&amp;pause=850&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=1080&amp;height=54&amp;lines=%E2%9A%A1+0%E2%86%921+PRODUCT+%C2%B7+AI-NATIVE+SYSTEMS+%C2%B7+VENTURE+EXPERIMENTS;%F0%9F%A7%A0+CPO+%26+HEAD+OF+AI+%40+GUPPY+DIGITAL+TECHNOLOGY;%F0%9F%9A%80+HEAD+OF+PRODUCT+%26+AI+%40+GDDAO;%F0%9F%8C%8F+TAIPEI%2C+TAIWAN+%C2%B7+BUILD+%E2%86%92+SHIP+%E2%86%92+LEARN+%E2%86%92+REPEAT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=2800&amp;pause=850&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=1080&amp;height=54&amp;lines=%E2%9A%A1+0%E2%86%921+PRODUCT+%C2%B7+AI-NATIVE+SYSTEMS+%C2%B7+VENTURE+EXPERIMENTS;%F0%9F%A7%A0+CPO+%26+HEAD+OF+AI+%40+GUPPY+DIGITAL+TECHNOLOGY;%F0%9F%9A%80+HEAD+OF+PRODUCT+%26+AI+%40+GDDAO;%F0%9F%8C%8F+TAIPEI%2C+TAIWAN+%C2%B7+BUILD+%E2%86%92+SHIP+%E2%86%92+LEARN+%E2%86%92+REPEAT" alt="Mason Hsu — product and AI builder" />
+</picture>
+
+</div>
+
+---
 
 ## 01 / Product leader who still builds
+
+<img align="right" width="390" src="./assets/mason-builder-live.gif" alt="Mason Hsu building product roadmaps and AI agent workflows" />
 
 I'm **Mason Hsu** — a product leader and hands-on builder working across **AI, product strategy, systems, and 0→1 ventures**.
 
@@ -43,9 +36,7 @@ I lead company-wide product strategy, AI team development, and AI R&D — from p
 | **50+ NPOs · 15+ enterprises** | Platform adoption and real-world operating context |
 | **ISO/IEC 27001:2022** | Execution lead for implementation |
 
-<br />
-
-<img src="./assets/mason-builder-loop.svg" width="100%" alt="Mason's product operating loop: friction, wedge, system, ship, and learn" />
+<br clear="right" />
 
 ---
 
@@ -229,6 +220,10 @@ A recoverable loop controller for Codex that turns “keep working until the con
 </tr>
 </table>
 
+<br />
+
+<img src="./assets/build-spectrum.svg" width="100%" alt="Mason Hsu's build spectrum across AI systems, products, and ventures" />
+
 ---
 
 ## 04 / Product + engineering range
@@ -259,7 +254,22 @@ I don't try to be the deepest specialist in every layer. I understand enough of 
 
 ---
 
-## 06 / Building in public
+## 06 / Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mason131928/"><img src="https://img.shields.io/badge/LinkedIn-Mason_Hsu-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Mason Hsu on LinkedIn" /></a>
+  <a href="https://x.com/mason131928"><img src="https://img.shields.io/badge/X-%40mason131928-111111?style=flat-square&amp;logo=x&amp;logoColor=white" alt="Follow Mason Hsu on X" /></a>
+  <a href="https://substack.com/@mason131929"><img src="https://img.shields.io/badge/Substack-%40mason131929-FF6719?style=flat-square&amp;logo=substack&amp;logoColor=white" alt="Read Mason Hsu on Substack" /></a>
+  <a href="https://www.masonfoundry.com/"><img src="https://img.shields.io/badge/Mason_Foundry-US_LLC-1F6FEB?style=flat-square" alt="Visit Mason Foundry US LLC" /></a>
+  <a href="https://gddao.com"><img src="https://img.shields.io/badge/GDDAO-Product_%26_AI-2563EB?style=flat-square" alt="Visit GDDAO" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mason131928"><img src="https://komarev.com/ghpvc/?username=mason131928&amp;label=Profile%20views&amp;color=2f81f7&amp;style=flat-square" alt="Profile views" /></a>
+  <a href="https://github.com/mason131928?tab=followers"><img src="https://img.shields.io/github/followers/mason131928?label=GitHub%20followers&amp;style=flat-square&amp;logo=github&amp;color=24292f" alt="GitHub followers" /></a>
+</p>
+
+### Building in public
 
 I keep public repositories focused on things that are useful to inspect, run, fork, or argue with: **[HashAgent](https://github.com/mason131928/hashagent)**, **[SAGE](https://github.com/mason131928/SAGE)**, and **[Ralph for Codex](https://github.com/mason131928/codex-ralph-wiggum)**.
 
@@ -279,7 +289,5 @@ I keep public repositories focused on things that are useful to inspect, run, fo
 ### Build the wedge. Ship the system. Learn from reality.
 
 **Mason Hsu · CPO & Head of AI · Head of Product & AI @ GDDAO · Taipei, Taiwan 🇹🇼**
-
-<a href="https://www.linkedin.com/in/mason131928/">LinkedIn</a> · <a href="https://x.com/mason131928">X</a> · <a href="https://substack.com/@mason131929">Substack</a> · <a href="https://www.masonfoundry.com/">Mason Foundry</a> · <a href="https://gddao.com">GDDAO</a>
 
 </div>

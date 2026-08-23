@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mason Hsu build spectrum</title>
+  <desc id="desc">Projects spanning local AI, realtime agents, evidence systems, interactive worlds, physical safety and venture products.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop offset="0" stop-color="#10141A"/>
+      <stop offset="1" stop-color="#171C24"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#5DD39E"/>
+      <stop offset="0.48" stop-color="#1F6FEB"/>
+      <stop offset="1" stop-color="#A98BFA"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="26" fill="url(#panel)"/>
+  <g opacity="0.12" stroke="#A9B2BF" stroke-width="1">
+    <path d="M40 76 H1160 M40 128 H1160 M40 180 H1160 M40 232 H1160"/>
+    <path d="M160 40 V260 M360 40 V260 M560 40 V260 M760 40 V260 M960 40 V260"/>
+  </g>
+
+  <g transform="translate(44 38)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="0" y="0" font-size="12" font-weight="700" letter-spacing="2" fill="#7EA9F8">BUILD RANGE // SAME LOOP, DIFFERENT CONSTRAINTS</text>
+    <text x="0" y="30" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="760" fill="#F0F2F5">I use products to explore where software meets reality.</text>
+  </g>
+
+  <path d="M78 154 H1122" stroke="#343C47" stroke-width="4" stroke-linecap="round"/>
+  <path d="M78 154 H1122" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-dasharray="150 894">
+    <animate attributeName="stroke-dashoffset" values="150;-1044" dur="7.5s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, sans-serif">
+    <g transform="translate(90 126)">
+      <circle cx="0" cy="28" r="8" fill="#5DD39E"/>
+      <text x="0" y="-5" text-anchor="middle" font-size="13" font-weight="760" fill="#F2F4F7">HashAgent</text>
+      <text x="0" y="67" text-anchor="middle" font-size="10.5" fill="#8F99A6">LOCAL AI</text>
+    </g>
+    <g transform="translate(235 126)">
+      <circle cx="0" cy="28" r="8" fill="#72D7B0"/>
+      <text x="0" y="-5" text-anchor="middle" font-size="13" font-weight="760" fill="#F2F4F7">Ralph</text>
+      <text x="0" y="67" text-anchor="middle" font-size="10.5" fill="#8F99A6">DEVTOOLS</text>
+    </g>
+    <g transform="translate(380 126)">
+      <circle cx="0" cy="28" r="8" fill="#4B91F1"/>
+      <text x="0" y="-5" text-anchor="middle" font-size="13" font-weight="760" fill="#F2F4F7">MemOwl</text>
+      <text x="0" y="67" text-anchor="middle" font-size="10.5" fill="#8F99A6">REALTIME</text>
+    </g>
+    <g transform="translate(525 126)">
+      <circle cx="0" cy="28" r="8" fill="#397FEA"/>
+      <text x="0" y="-5" text-anchor="middle" font-size="13" font-weight="760" fill="#F2F4F7">SAGE</text>
+      <text x="0" y="67" text-anchor="middle" font-size="10.5" fill="#8F99A6">EVIDENCE</text>
+    </g>
+    <g transform="translate(670 126)">
+      <circle cx="0" cy="28" r="8" fill="#5E78E8"/>
+      <text x="0" y="-5" text-anchor="middle" font-size="13" font-weight="760" fill="#F2F4F7">月老值班中</text>
+      <text x="0" y="67" text-anchor="middle" font-size="10.5" fill="#8F99A6">INTERACTIVE</text>
+    </g>
+    <g transform="translate(815 126)">
+      <circle cx="0" cy="28" r="8" fill="#796FE4"/>
+      <text x="0" y="-5" text-anchor="middle" font-size="13" font-weight="760" fill="#F2F4F7">Taxer</text>
+      <text x="0" y="67" text-anchor="middle" font-size="10.5" fill="#8F99A6">VERTICAL AI</text>
+    </g>
+    <g transform="translate(960 126)">
+      <circle cx="0" cy="28" r="8" fill="#9470E4"/>
+      <text x="0" y="-5" text-anchor="middle" font-size="13" font-weight="760" fill="#F2F4F7">Housebook</text>
+      <text x="0" y="67" text-anchor="middle" font-size="10.5" fill="#8F99A6">MICRO-SAAS</text>
+    </g>
+    <g transform="translate(1105 126)">
+      <circle cx="0" cy="28" r="8" fill="#AF7CE7"/>
+      <text x="0" y="-5" text-anchor="middle" font-size="13" font-weight="760" fill="#F2F4F7">SafeBack</text>
+      <text x="0" y="67" text-anchor="middle" font-size="10.5" fill="#8F99A6">PHYSICAL</text>
+    </g>
+  </g>
+
+  <g transform="translate(44 266)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#7E8895">
+    <text x="0" y="0">software ←──────────────────────────── product constraints ────────────────────────────→ physical world</text>
+  </g>
+</svg>

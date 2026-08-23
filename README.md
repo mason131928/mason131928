@@ -5,110 +5,151 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=F0F6FC&center=true&vCenter=true&width=1050&height=52&lines=0%E2%86%921+PRODUCT+%C2%B7+AI-NATIVE+SYSTEMS+%C2%B7+VENTURE+EXPERIMENTS+%C2%B7+TAIPEI%2C+TAIWAN;PRODUCT+DIRECTOR+%26+HEAD+OF+AI+%40+GUPPY+DIGITAL+TECHNOLOGY;HEAD+OF+PRODUCT+%26+AI+%40+GDDAO;BUILD+%E2%86%92+SHIP+%E2%86%92+LEARN+%E2%86%92+REPEAT" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=24292F&center=true&vCenter=true&width=1050&height=52&lines=0%E2%86%921+PRODUCT+%C2%B7+AI-NATIVE+SYSTEMS+%C2%B7+VENTURE+EXPERIMENTS+%C2%B7+TAIPEI%2C+TAIWAN;PRODUCT+DIRECTOR+%26+HEAD+OF+AI+%40+GUPPY+DIGITAL+TECHNOLOGY;HEAD+OF+PRODUCT+%26+AI+%40+GDDAO;BUILD+%E2%86%92+SHIP+%E2%86%92+LEARN+%E2%86%92+REPEAT" alt="Mason Hsu — product and AI builder" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=1080&height=54&lines=%E2%9A%A1+0%E2%86%921+PRODUCT+%C2%B7+AI-NATIVE+SYSTEMS+%C2%B7+VENTURE+EXPERIMENTS;%F0%9F%A7%A0+CPO+%26+HEAD+OF+AI+%40+GUPPY+DIGITAL+TECHNOLOGY;%F0%9F%9A%80+HEAD+OF+PRODUCT+%26+AI+%40+GDDAO;%F0%9F%8C%8F+TAIPEI%2C+TAIWAN+%C2%B7+BUILD+%E2%86%92+SHIP+%E2%86%92+LEARN+%E2%86%92+REPEAT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=850&color=0969DA&center=true&vCenter=true&width=1080&height=54&lines=%E2%9A%A1+0%E2%86%921+PRODUCT+%C2%B7+AI-NATIVE+SYSTEMS+%C2%B7+VENTURE+EXPERIMENTS;%F0%9F%A7%A0+CPO+%26+HEAD+OF+AI+%40+GUPPY+DIGITAL+TECHNOLOGY;%F0%9F%9A%80+HEAD+OF+PRODUCT+%26+AI+%40+GDDAO;%F0%9F%8C%8F+TAIPEI%2C+TAIWAN+%C2%B7+BUILD+%E2%86%92+SHIP+%E2%86%92+LEARN+%E2%86%92+REPEAT" alt="Mason Hsu — product and AI builder" />
 </picture>
+
+<br />
+
+<a href="https://github.com/mason131928"><img src="https://komarev.com/ghpvc/?username=mason131928&label=PROFILE%20VIEWS&color=0969da&style=for-the-badge" alt="Profile Views" /></a>
+<a href="https://github.com/mason131928?tab=followers"><img src="https://img.shields.io/github/followers/mason131928?label=FOLLOWERS&style=for-the-badge&logo=github&color=24292f" alt="GitHub Followers" /></a>
+<a href="https://www.linkedin.com/in/mason131928/"><img src="https://img.shields.io/badge/LinkedIn-Mason%20Hsu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/mason131928"><img src="https://img.shields.io/badge/X-@mason131928-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://substack.com/@mason131929"><img src="https://img.shields.io/badge/Substack-@mason131929-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
+
+<br /><br />
+
+<a href="https://www.masonfoundry.com/"><img src="https://img.shields.io/badge/MASON%20FOUNDRY-US%20LLC-111827?style=for-the-badge" alt="Mason Foundry LLC" /></a>
+<a href="https://gddao.com"><img src="https://img.shields.io/badge/GDDAO-HEAD%20OF%20PRODUCT%20%26%20AI-2563EB?style=for-the-badge" alt="GDDAO" /></a>
 
 </div>
 
+---
+
 ## 01 / Product leader who still builds
 
-I'm **Mason Hsu** — a product leader and builder working across **AI, product strategy, systems, and 0→1 ventures**.
+<img align="right" width="390" src="./assets/mason-builder-at-work.svg" alt="Mason Hsu building product roadmaps and AI agent workflows" />
 
-I like staying close to the entire loop: understand the problem, define the wedge, make the product and architecture tradeoffs, ship working software, then learn from users, latency, cost, reliability, and economics.
+I'm **Mason Hsu** — a product leader and hands-on builder working across **AI, product strategy, systems, and 0→1 ventures**.
 
-### Product Director & Head of AI @ 孔雀魚數位科技 (Guppy Digital Technology)
+I like staying close to the whole loop: **find the problem → define the wedge → make the product and architecture tradeoffs → ship → measure → iterate.**
 
-I lead **company-wide product strategy, AI team development, and AI R&D** — from product direction and roadmap decisions to architecture, experimentation, and cross-functional delivery.
+### Chief Product Officer (CPO) & Head of AI @ 孔雀魚數位科技 (Guppy Digital Technology)
+
+I lead **company-level product strategy, AI team development, and AI R&D** — connecting roadmap decisions with architecture, experimentation, and cross-functional execution.
 
 ### Head of Product & AI @ [好事道 GDDAO](https://gddao.com)
 
-**GDDAO is the flagship product I currently lead.** I own product direction across the platform and its AI capabilities, connecting data collection, automated analysis, AI agents, SROI / ESG / SDG workflows, and impact reporting into one product system.
+**GDDAO is the flagship product I currently lead.** I own product direction and AI capabilities across data collection, automated analysis, agents, SROI / ESG / SDG workflows, and impact reporting.
 
 | Operator signal | Scope |
 |---|---|
-| **~10-person cross-functional team** | Product, engineering, operations, and delivery coordination |
-| **NT$5M AI R&D initiative** | Architecture definition for a government-supported AI program |
-| **50+ NPOs · 15+ enterprises** | Platform adoption and real-world operating context |
-| **ISO/IEC 27001:2022** | Execution lead for implementation |
+| **~10-person cross-functional team** | Product · engineering · operations · delivery |
+| **NT$5M AI R&D initiative** | AI architecture for a government-supported R&D program |
+| **50+ NPOs · 15+ enterprises** | Real-world platform adoption and operating context |
+| **ISO/IEC 27001:2022** | Implementation execution lead |
 
-> **How I operate:** `DISCOVER → DEFINE → BUILD → SHIP → MEASURE → ITERATE`
+> `DISCOVER → DEFINE → BUILD → SHIP → MEASURE → ITERATE`
+
+<br clear="right" />
 
 ---
 
 ## 02 / Flagship builds
 
-These are the projects that best represent how I think about products and systems.
+The projects that best represent how I think about **product bets, system constraints, and shipping**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<br />
 
 ### 🧠 [HashAgent](https://github.com/mason131928/hashagent)
 
 <sub>LOCAL AI · OPEN SOURCE · LIVE</sub>
 
+<br />
+
 **Share an AI agent as a URL.**
 
-A browser-first agent product where the agent definition can live in the URL and inference runs locally through WebGPU. No inference server, no account, and no tracking are required for the core experience.
+A browser-first agent product where definitions live in the URL and inference runs locally through WebGPU — no inference server, account, or tracking required for the core experience.
 
-**Product bet:** useful AI does not always need a backend inference service.
+**Product thesis:** useful AI does not always need a backend inference service.
 
 `WebGPU` `WebLLM` `Transformers.js` `Cloudflare`
 
-**[Try it →](https://hashagent.pages.dev)** · **[Source →](https://github.com/mason131928/hashagent)**
+<br />
 
+**[Try it →](https://hashagent.pages.dev)** &nbsp; **[Source →](https://github.com/mason131928/hashagent)**
+
+<br />
 </td>
 <td width="50%" valign="top">
+<br />
 
 ### 🧧 [月老值班中](https://imyuelao.com)
 
 <sub>INTERACTIVE PRODUCT · 3D · REALTIME · LIVE</sub>
 
+<br />
+
 **A multiplayer 3D world built around the lifecycle of a wish.**
 
 Six stylized Taiwanese temple worlds combine first/third-person exploration, realtime rooms, interactive storytelling, wish workflows, and AI-assisted content.
 
-**Product bet:** cultural rituals can become playable digital systems without collapsing the experience into a chatbot.
+**Product thesis:** cultural rituals can become playable digital systems without turning into another chatbot.
 
 `React` `R3F` `Hono` `D1` `R2` `Durable Objects` `Workers AI`
 
+<br />
+
 **[Enter the world →](https://imyuelao.com)**
 
+<br />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<br />
 
 ### 📚 [SAGE](https://github.com/mason131928/SAGE)
 
 <sub>AI SYSTEMS · EVIDENCE · OPEN SOURCE</sub>
 
+<br />
+
 **Semantic Agentic Generation Engine.**
 
-An evidence-first report-generation system for qualitative and mixed-method datasets, built around layered full-dataset synthesis, reviewable artifacts, retrieval, evaluation, and operational control.
+An evidence-first report-generation system for qualitative and mixed-method datasets, built around full-dataset synthesis, reviewable artifacts, retrieval, evaluation, and operational control.
 
-**Product bet:** serious AI output needs traceability and evaluation — not just a thin retrieval slice.
+**Product thesis:** serious AI output needs traceability and evaluation — not just retrieval.
 
 `Agents` `Evaluation` `Retrieval` `Node.js` `SQLite`
 
+<br />
+
 **[View source →](https://github.com/mason131928/SAGE)**
 
+<br />
 </td>
 <td width="50%" valign="top">
+<br />
 
 ### 🦉 MemOwl
 
 <sub>REALTIME AI · MEETING AGENT · PRIVATE BUILD</sub>
 
+<br />
+
 **A realtime meeting AI agent designed from the constraints backward.**
 
-Before treating the app as “done,” the build explicitly models provider quality, meeting unit cost, latency, backup/restore, privacy, release readiness, and realtime voice paths.
+The build explicitly models provider quality, meeting unit cost, latency, backup/restore, privacy, release readiness, and realtime voice paths before calling the product “done.”
 
-**Product bet:** realtime agents are latency / cost / reliability products, not prompt demos.
+**Product thesis:** realtime agents are latency / cost / reliability products, not prompt demos.
 
 `Realtime` `Voice` `TypeScript` `Benchmarks` `Quality Gates`
 
+<br /><br />
 </td>
 </tr>
 </table>
@@ -117,69 +158,87 @@ Before treating the app as “done,” the build explicitly models provider qual
 
 ## 03 / Venture lab
 
-Not every idea should become a company. I like building small, real experiments that test a **wedge, constraint, or business model** before over-investing.
+I build small, real experiments to test a **wedge, business model, or hard constraint** before over-investing.
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<br />
 
 ### 🛡️ SafeBack
 
 <sub>PHYSICAL COMPUTING · SAFETY · EARLY PROTOTYPE</sub>
 
-A clip-on rear-vehicle warning concept for pedestrians, runners, roadside workers, and later riders. It explores mmWave radar, acoustic pre-warning, IMU filtering, TTC classification, haptic alerts, BLE, firmware, and a mobile shell.
+<br />
 
-**Constraint being tested:** can a safety product work locally, privately, and without depending on a phone or network for its core warning loop?
+A clip-on rear-vehicle warning concept for pedestrians, runners, roadside workers, and later riders — exploring mmWave radar, acoustic pre-warning, IMU filtering, TTC classification, haptics, BLE, firmware, and a mobile shell.
+
+**Constraint:** can the core warning loop work locally and privately without depending on a phone or network?
 
 `ESP32-S3` `mmWave` `BLE` `C++` `React Native`
 
+<br /><br />
 </td>
 <td width="50%" valign="top">
+<br />
 
 ### 🏠 Housebook
 
 <sub>MICRO-SAAS · AUTOMATION · MONETIZATION</sub>
 
+<br />
+
 An AI guest-guide product for short-term-rental hosts: generate a preview from a listing, unlock the full guide through Stripe, then deliver a six-language guest experience.
 
-The experiment includes queues, email delivery, a paywall, scraping/fallback paths, and explicit unit economics — the current build models a **$29 one-time product** with preview generation around **$0.04**.
+The experiment includes queues, email, a paywall, scraping/fallback paths, and explicit unit economics — **$29 one-time** with preview generation around **$0.04** in the current build.
 
-**Constraint being tested:** can a narrow workflow become a self-serve, low-cost paid product?
+**Constraint:** can a narrow workflow become a self-serve, low-cost paid product?
 
-`Cloudflare Workers` `Queues` `R2` `Stripe` `Resend` `Claude`
+`Workers` `Queues` `R2` `Stripe` `Resend` `Claude`
 
+<br /><br />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<br />
 
 ### 🧾 Taxer
 
 <sub>VERTICAL AI · TAIWAN TAX · PRIVATE BUILD</sub>
 
+<br />
+
 A Taiwan income-tax product that turns filing timelines, deductions, rules, calculators, and AI guidance into a guided decision flow instead of another wall of tax content.
 
-It also experiments with AI-agent tools and AI-discovery surfaces alongside conventional SEO.
+It also experiments with agent tools and AI-discovery surfaces alongside conventional SEO.
 
-**Constraint being tested:** can a high-anxiety annual task become a clear, trustworthy guided product?
+**Constraint:** can a high-anxiety annual task become a clear, trustworthy guided product?
 
 `Next.js` `AI Agent` `Tax Rules` `SEO / GEO`
 
+<br /><br />
 </td>
 <td width="50%" valign="top">
+<br />
 
 ### 🔁 [Ralph for Codex](https://github.com/mason131928/codex-ralph-wiggum)
 
 <sub>DEVTOOLS · AGENT RUNTIME · OPEN SOURCE</sub>
 
+<br />
+
 A recoverable loop controller for Codex that turns “keep working until the condition is actually satisfied” into an explicit state machine with persisted history, status, cancel, resume, watch, dashboard, and campaign operations.
 
-**Constraint being tested:** how do you make long-running agent work observable and recoverable instead of magical?
+**Constraint:** how do you make long-running agent work observable and recoverable instead of magical?
 
 `Codex` `State Machine` `Shell` `Observability`
 
+<br />
+
 **[View source →](https://github.com/mason131928/codex-ralph-wiggum)**
 
+<br />
 </td>
 </tr>
 </table>
@@ -188,11 +247,11 @@ A recoverable loop controller for Codex that turns “keep working until the con
 
 ## 04 / Product + engineering range
 
-I don't try to be the deepest specialist in every layer. I try to understand enough of each layer to make **better product tradeoffs** and move a 0→1 build forward without hand-waving the hard parts.
+I don't optimize for being the deepest specialist in every layer. I optimize for understanding enough of each layer to make **better product tradeoffs** and move a 0→1 build forward without hand-waving the hard parts.
 
 | Layer | What I work with |
 |---|---|
-| **Product** | Problem discovery · PRD · UX · scope · pricing · GTM · experiments · instrumentation |
+| **Product** | Discovery · PRD · UX · scope · pricing · GTM · experiments · instrumentation |
 | **AI systems** | Agents · tool use · evals · RAG · realtime · multimodal · MCP · local inference |
 | **Application** | TypeScript · React · Next.js · Node.js · Hono · Python |
 | **Edge / cloud** | Cloudflare Workers · D1 · R2 · KV · Durable Objects · Queues · AWS · Docker |
@@ -204,44 +263,41 @@ I don't try to be the deepest specialist in every layer. I try to understand eno
 
 ## 05 / Things I believe about building
 
-`PROBLEM > MODEL`  
-Start with the user friction. AI earns its place when it changes what the product can do.
-
-`UNIT ECONOMICS ARE ARCHITECTURE`  
-Latency, inference cost, queueing, storage, and support cost shape the product before they become finance problems.
-
-`FAILURE MODES ARE PRODUCT DESIGN`  
-Fallbacks, recovery, privacy boundaries, safety limits, and observability belong in the experience — not in a post-launch checklist.
-
-`SHIP SMALL · INSTRUMENT EARLY`  
-A working wedge with real signals teaches more than a large speculative roadmap.
-
-`WORKING SOFTWARE CREATES BETTER STRATEGY`  
-The fastest way to improve an idea is often to make it touch reality.
+**`PROBLEM > MODEL`** — AI earns its place when it changes what the product can actually do.  
+**`UNIT ECONOMICS ARE ARCHITECTURE`** — latency, inference cost, queues, storage, and support shape the product early.  
+**`FAILURE MODES ARE PRODUCT DESIGN`** — fallback, recovery, privacy, safety, and observability belong in the experience.  
+**`SHIP SMALL · INSTRUMENT EARLY`** — a working wedge with real signals teaches more than a speculative roadmap.  
+**`WORKING SOFTWARE CREATES BETTER STRATEGY`** — the fastest way to sharpen an idea is often to make it touch reality.
 
 ---
 
-## 06 / Building in public
-
-I keep the public repos focused on things that are useful to inspect, run, fork, or argue with: **[HashAgent](https://github.com/mason131928/hashagent)**, **[SAGE](https://github.com/mason131928/SAGE)**, and **[Ralph for Codex](https://github.com/mason131928/codex-ralph-wiggum)**.
+## 06 / Find me elsewhere
 
 <div align="center">
+
+**Building products in Taiwan. Exploring markets globally.**
+
+<br />
+
+<a href="https://www.linkedin.com/in/mason131928/">LinkedIn</a> ·
+<a href="https://x.com/mason131928">X / @mason131928</a> ·
+<a href="https://substack.com/@mason131929">Substack</a> ·
+<a href="https://www.masonfoundry.com/">Mason Foundry LLC</a> ·
+<a href="https://gddao.com">GDDAO</a> ·
+<a href="https://hashagent.pages.dev">HashAgent</a> ·
+<a href="https://imyuelao.com">月老值班中</a>
+
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mason131928&theme=github-compact&hide_border=true&area=true" />
   <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=mason131928&bg_color=ffffff&color=24292f&line=1f6feb&point=57606a&area=true&hide_border=true" alt="Contribution activity graph" />
 </picture>
 
-</div>
-
----
-
-<div align="center">
+<br />
 
 ### Build the wedge. Ship the system. Learn from reality.
 
-**Mason Hsu · Product Director & Head of AI · Taipei, Taiwan 🇹🇼**
-
-<a href="https://github.com/mason131928">GitHub</a> · <a href="https://gddao.com">GDDAO</a> · <a href="https://hashagent.pages.dev">HashAgent</a> · <a href="https://imyuelao.com">月老值班中</a>
+**Mason Hsu · CPO & Head of AI · Head of Product & AI @ GDDAO · Taipei, Taiwan 🇹🇼**
 
 </div>

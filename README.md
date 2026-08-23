@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mason-banner.svg" width="100%" alt="Mason Hsu — Product Builder / Founder Mode" />
+<img src="./assets/mason-banner.svg" width="100%" alt="Mason Hsu — Product Builder / 0→1 Operator" />
 
 <br />
 
@@ -21,11 +21,22 @@ I use code as a product-thinking tool. The goal is not to collect frameworks; th
 - **Product** — problem framing, PRDs, UX, scope, pricing, GTM, experiments
 - **AI** — agents, tool use, evals, realtime, multimodal, local inference
 - **Systems** — edge/cloud architecture, data, queues, realtime state, observability
-- **Founder mode** — unit economics, failure modes, privacy, safety, distribution
+- **Operator mindset** — unit economics, failure modes, privacy, safety, distribution
 
 > **The question I keep coming back to:** what becomes possible when AI is part of the product architecture — not a chat box bolted on at the end?
 
 <br clear="right" />
+
+### Current product work
+
+**Product Manager · GUPPY DIGITAL / GDDAO** — product strategy and roadmap for an AI-native impact-management platform connecting data collection, automated analysis, AI agents, SROI / ESG / SDG workflows, and impact reporting.
+
+| Product signal | Scope |
+|---|---|
+| **~10-person cross-functional team** | Product, engineering, operations, and delivery coordination |
+| **NT$5M AI R&D initiative** | Architecture definition for a government-supported AI program |
+| **50+ NPOs · 15+ enterprises** | Platform adoption and real-world operating context |
+| **ISO/IEC 27001:2022** | Execution lead for implementation |
 
 <br />
 
@@ -218,15 +229,11 @@ The fastest way to improve an idea is often to make it touch reality.
 
 ---
 
-## 06 / Open source worth clicking
+## 06 / Building in public
+
+I keep the public repos focused on things that are useful to inspect, run, fork, or argue with: **[HashAgent](https://github.com/mason131928/hashagent)**, **[SAGE](https://github.com/mason131928/SAGE)**, and **[Ralph for Codex](https://github.com/mason131928/codex-ralph-wiggum)**.
 
 <div align="center">
-
-<a href="https://github.com/mason131928/hashagent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mason131928&repo=hashagent&hide_border=true&theme=transparent" width="31%" alt="HashAgent" /></a>
-<a href="https://github.com/mason131928/SAGE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mason131928&repo=SAGE&hide_border=true&theme=transparent" width="31%" alt="SAGE" /></a>
-<a href="https://github.com/mason131928/codex-ralph-wiggum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mason131928&repo=codex-ralph-wiggum&hide_border=true&theme=transparent" width="31%" alt="Ralph for Codex" /></a>
-
-<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mason131928&theme=github-compact&hide_border=true&area=true" />

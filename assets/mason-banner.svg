@@ -1,73 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Mason Hsu — Product Builder / 0→1 Operator</title>
-  <desc id="desc">Mason Hsu builds AI-native products from problem framing to systems, shipping, and learning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mason Hsu — Product Builder and AI Leader</title>
+  <desc id="desc">Minimal dark profile banner for Mason Hsu, focused on product, AI, systems, and zero-to-one building.</desc>
   <defs>
-    <linearGradient id="warm" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#F8F4EC"/>
-      <stop offset="0.62" stop-color="#F1ECE3"/>
-      <stop offset="1" stop-color="#E8EEF6"/>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F6FEB" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="blue" x1="0" x2="1">
+    <linearGradient id="line" x1="0" x2="1">
       <stop offset="0" stop-color="#1F6FEB"/>
-      <stop offset="1" stop-color="#78A9FF"/>
+      <stop offset="1" stop-color="#79C0FF"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#111827" flood-opacity="0.14"/>
-    </filter>
   </defs>
 
-  <rect width="1200" height="360" rx="30" fill="url(#warm)"/>
-  <path d="M0 330 H1200" stroke="#D9D1C6" opacity="0.6"/>
+  <rect width="1200" height="300" rx="26" fill="#0D1117"/>
 
-  <g transform="translate(72 60)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial">
-    <rect x="0" y="4" width="11" height="11" rx="3" fill="#1F6FEB"/>
-    <text x="24" y="15" font-size="14" font-weight="750" letter-spacing="2.2" fill="#625C54">PRODUCT BUILDER // 0→1 OPERATOR</text>
-
-    <text x="0" y="105" font-size="70" font-weight="800" letter-spacing="-3" fill="#151515">MASON HSU</text>
-    <rect x="0" y="126" width="216" height="6" rx="3" fill="url(#blue)"/>
-
-    <text x="0" y="181" font-size="24" font-weight="720" fill="#302D29">AI × PRODUCT × SYSTEMS × VENTURES</text>
-    <text x="0" y="219" font-size="17" fill="#6C655D">From vague problem → working system → real users → better product.</text>
-
-    <g transform="translate(0 256)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="650" fill="#716A62">
-      <text x="0" y="0">DISCOVER</text>
-      <text x="95" y="0">→</text>
-      <text x="120" y="0">PROTOTYPE</text>
-      <text x="225" y="0">→</text>
-      <text x="250" y="0">SHIP</text>
-      <text x="307" y="0">→</text>
-      <text x="332" y="0">MEASURE</text>
-      <text x="421" y="0">→</text>
-      <text x="446" y="0">ITERATE</text>
-    </g>
+  <g opacity="0.42" stroke="#21262D" stroke-width="1">
+    <path d="M0 60 H1200"/>
+    <path d="M0 120 H1200"/>
+    <path d="M0 180 H1200"/>
+    <path d="M0 240 H1200"/>
+    <path d="M240 0 V300"/>
+    <path d="M480 0 V300"/>
+    <path d="M720 0 V300"/>
+    <path d="M960 0 V300"/>
   </g>
 
-  <g transform="translate(790 55)" filter="url(#shadow)">
-    <rect width="344" height="244" rx="22" fill="#11151B"/>
-    <rect width="344" height="38" rx="22" fill="#181D24"/>
-    <rect y="20" width="344" height="18" fill="#181D24"/>
-    <circle cx="22" cy="19" r="5" fill="#FF6B6B"/>
-    <circle cx="40" cy="19" r="5" fill="#F4C95D"/>
-    <circle cx="58" cy="19" r="5" fill="#5DD39E"/>
-    <text x="172" y="23" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#78808B">mason@build — product-os</text>
+  <circle cx="1010" cy="95" r="175" fill="url(#glow)"/>
 
-    <g transform="translate(24 64)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">
-      <text x="0" y="0" fill="#7EA9F8">mason@build:~$</text>
-      <text x="122" y="0" fill="#E6E9ED"> whoami</text>
-      <text x="0" y="26" fill="#AAB2BD">0→1 product builder</text>
+  <g transform="translate(68 54)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial">
+    <rect x="0" y="2" width="10" height="10" rx="2.5" fill="#2F81F7"/>
+    <text x="23" y="12" font-size="13" font-weight="750" letter-spacing="2.2" fill="#8B949E">PRODUCT BUILDER · AI R&amp;D · 0→1</text>
 
-      <text x="0" y="62" fill="#7EA9F8">mason@build:~$</text>
-      <text x="122" y="62" fill="#E6E9ED"> cat operating_mode</text>
-      <text x="0" y="88" fill="#AAB2BD">problem → product → system → market</text>
+    <text x="0" y="89" font-size="65" font-weight="800" letter-spacing="-2.7" fill="#F0F6FC">MASON HSU</text>
+    <rect x="0" y="109" width="192" height="5" rx="2.5" fill="url(#line)"/>
 
-      <text x="0" y="124" fill="#7EA9F8">mason@build:~$</text>
-      <text x="122" y="124" fill="#E6E9ED"> echo $BIAS</text>
-      <text x="0" y="150" fill="#5DD39E">SHIP_WORKING_SOFTWARE</text>
-
-      <text x="0" y="184" fill="#7EA9F8">mason@build:~$</text>
-      <rect x="122" y="172" width="8" height="15" rx="1" fill="#E6E9ED">
-        <animate attributeName="opacity" values="1;1;0;0;1" dur="1.05s" repeatCount="indefinite"/>
-      </rect>
-    </g>
+    <text x="0" y="157" font-size="22" font-weight="680" fill="#C9D1D9">PRODUCT × AI × SYSTEMS × VENTURES</text>
+    <text x="0" y="193" font-size="16" fill="#8B949E">I turn ambiguous problems into products people can actually use.</text>
   </g>
+
+  <g transform="translate(888 80)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="0" y="0" font-size="12" font-weight="700" letter-spacing="1.5" fill="#8B949E">BUILD MODE</text>
+    <text x="0" y="77" font-size="76" font-weight="800" letter-spacing="-6" fill="#F0F6FC">0→1</text>
+    <text x="4" y="111" font-size="12" fill="#58A6FF">discover / build / ship / learn</text>
+    <rect x="4" y="137" width="8" height="16" rx="1" fill="#58A6FF">
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <path d="M68 269 H1132" stroke="#30363D"/>
+  <text x="68" y="287" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1" fill="#6E7681">TAIPEI · BUILDING AI-NATIVE PRODUCTS · SHIPPING WORKING SOFTWARE</text>
 </svg>

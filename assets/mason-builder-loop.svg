@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Mason Builder Loop</title>
+  <desc id="desc">Animated loop showing Idea to System to Product to Impact.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#F8F5EF"/>
+      <stop offset="1" stop-color="#EFE9DF"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" x2="1">
+      <stop offset="0" stop-color="#1F6FEB"/>
+      <stop offset="1" stop-color="#75A9FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#1F2328" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect width="720" height="440" rx="28" fill="url(#bg)"/>
+  <text x="44" y="50" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#71695F">BUILDER LOOP</text>
+  <text x="44" y="84" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="25" font-weight="760" fill="#1F1F1F">Idea → System → Product → Impact</text>
+
+  <g filter="url(#shadow)">
+    <rect x="44" y="130" width="142" height="86" rx="18" fill="#FFFFFF" stroke="#D8D0C5"/>
+    <text x="65" y="160" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="700" fill="#71695F">IDEA</text>
+    <text x="65" y="189" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="700" fill="#242424">Build an AI agent</text>
+    <circle cx="163" cy="151" r="6" fill="#1F6FEB">
+      <animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g stroke="#AFA69A" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M186 173 H245" stroke-dasharray="7 8">
+      <animate attributeName="stroke-dashoffset" values="0;-30" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M432 173 H491" stroke-dasharray="7 8">
+      <animate attributeName="stroke-dashoffset" values="0;-30" dur="2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g transform="translate(245 118)">
+    <rect width="187" height="110" rx="20" fill="#FFFFFF" stroke="#D8D0C5" filter="url(#shadow)"/>
+    <text x="20" y="30" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="700" fill="#71695F">SYSTEM</text>
+    <g transform="translate(22 48)">
+      <circle cx="18" cy="18" r="12" fill="#E6EFFD" stroke="#1F6FEB"/>
+      <circle cx="73" cy="18" r="12" fill="#F1ECE4" stroke="#918679"/>
+      <circle cx="128" cy="18" r="12" fill="#E6EFFD" stroke="#1F6FEB"/>
+      <path d="M30 18 H61 M85 18 H116" stroke="#8D857A" stroke-width="2"/>
+      <text x="2" y="49" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" fill="#5E584F">Agent</text>
+      <text x="59" y="49" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" fill="#5E584F">API</text>
+      <text x="111" y="49" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" fill="#5E584F">Data</text>
+    </g>
+  </g>
+
+  <g transform="translate(491 118)">
+    <rect width="185" height="110" rx="20" fill="#FFFFFF" stroke="#D8D0C5" filter="url(#shadow)"/>
+    <text x="20" y="30" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="700" fill="#71695F">PRODUCT</text>
+    <rect x="20" y="46" width="145" height="45" rx="10" fill="#F8FAFD" stroke="#CDD9EA"/>
+    <rect x="31" y="58" width="55" height="7" rx="3.5" fill="#1F6FEB" opacity="0.85"/>
+    <rect x="31" y="72" width="92" height="6" rx="3" fill="#B2B8C0"/>
+    <circle cx="147" cy="69" r="10" fill="url(#blue)">
+      <animateTransform attributeName="transform" attributeType="XML" type="scale" values="1;1.12;1" dur="2.4s" repeatCount="indefinite" additive="sum"/>
+    </circle>
+  </g>
+
+  <g transform="translate(44 276)">
+    <text x="0" y="0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="700" fill="#71695F">IMPACT SIGNALS</text>
+    <rect x="0" y="20" width="632" height="102" rx="20" fill="#FFFFFF" stroke="#D8D0C5"/>
+    <g transform="translate(24 40)">
+      <rect width="110" height="58" rx="14" fill="#F8FAFD"/>
+      <text x="14" y="23" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" fill="#71695F">People</text>
+      <text x="14" y="47" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="750" fill="#242424">Use</text>
+    </g>
+    <g transform="translate(151 40)">
+      <rect width="110" height="58" rx="14" fill="#F8FAFD"/>
+      <text x="14" y="23" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" fill="#71695F">Product</text>
+      <text x="14" y="47" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="750" fill="#242424">Learns</text>
+    </g>
+    <g transform="translate(278 40)">
+      <rect width="110" height="58" rx="14" fill="#F8FAFD"/>
+      <text x="14" y="23" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" fill="#71695F">System</text>
+      <text x="14" y="47" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="750" fill="#242424">Scales</text>
+    </g>
+    <g transform="translate(420 39)">
+      <polyline points="0,44 34,30 63,36 96,14 133,20 165,4" fill="none" stroke="url(#blue)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="260" stroke-dashoffset="260">
+        <animate attributeName="stroke-dashoffset" values="260;0;0" keyTimes="0;0.62;1" dur="4.5s" repeatCount="indefinite"/>
+      </polyline>
+      <circle cx="165" cy="4" r="5" fill="#1F6FEB">
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.55;0.7;1" dur="4.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <text x="547" y="414" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" fill="#8A8176">SHIP · LEARN · ITERATE</text>
+</svg>

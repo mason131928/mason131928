@@ -1,46 +1,38 @@
 <div align="center">
 
-<img src="./assets/mason-banner.svg" width="100%" alt="Mason Hsu — Product Builder / 0→1 Operator" />
+<img src="./assets/mason-banner.svg" width="100%" alt="Mason Hsu — Product Builder and AI Leader" />
 
 <br />
 
-**0→1 PRODUCT** · **AI-NATIVE SYSTEMS** · **VENTURE EXPERIMENTS** · **TAIPEI, TAIWAN 🇹🇼**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=F0F6FC&center=true&vCenter=true&width=1050&height=52&lines=0%E2%86%921+PRODUCT+%C2%B7+AI-NATIVE+SYSTEMS+%C2%B7+VENTURE+EXPERIMENTS+%C2%B7+TAIPEI%2C+TAIWAN;PRODUCT+DIRECTOR+%26+HEAD+OF+AI+%40+GUPPY+DIGITAL+TECHNOLOGY;HEAD+OF+PRODUCT+%26+AI+%40+GDDAO;BUILD+%E2%86%92+SHIP+%E2%86%92+LEARN+%E2%86%92+REPEAT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=24292F&center=true&vCenter=true&width=1050&height=52&lines=0%E2%86%921+PRODUCT+%C2%B7+AI-NATIVE+SYSTEMS+%C2%B7+VENTURE+EXPERIMENTS+%C2%B7+TAIPEI%2C+TAIWAN;PRODUCT+DIRECTOR+%26+HEAD+OF+AI+%40+GUPPY+DIGITAL+TECHNOLOGY;HEAD+OF+PRODUCT+%26+AI+%40+GDDAO;BUILD+%E2%86%92+SHIP+%E2%86%92+LEARN+%E2%86%92+REPEAT" alt="Mason Hsu — product and AI builder" />
+</picture>
 
 </div>
 
-## 01 / I build from 0 → 1
+## 01 / Product leader who still builds
 
-<img align="right" width="390" src="./assets/mason-builder-loop.svg" alt="Mason Product OS" />
+I'm **Mason Hsu** — a product leader and builder working across **AI, product strategy, systems, and 0→1 ventures**.
 
-I'm **Mason Hsu** — a product builder with a founder's bias.
+I like staying close to the entire loop: understand the problem, define the wedge, make the product and architecture tradeoffs, ship working software, then learn from users, latency, cost, reliability, and economics.
 
-I like staying close to the whole loop: **find an uncomfortable problem, define the smallest useful wedge, prototype the product and architecture together, ship it, then learn from users, latency, cost, reliability, and economics.**
+### Product Director & Head of AI @ 孔雀魚數位科技 (Guppy Digital Technology)
 
-I use code as a product-thinking tool. The goal is not to collect frameworks; the goal is to turn ambiguity into something people can actually use.
+I lead **company-wide product strategy, AI team development, and AI R&D** — from product direction and roadmap decisions to architecture, experimentation, and cross-functional delivery.
 
-- **Product** — problem framing, PRDs, UX, scope, pricing, GTM, experiments
-- **AI** — agents, tool use, evals, realtime, multimodal, local inference
-- **Systems** — edge/cloud architecture, data, queues, realtime state, observability
-- **Operator mindset** — unit economics, failure modes, privacy, safety, distribution
+### Head of Product & AI @ [好事道 GDDAO](https://gddao.com)
 
-> **The question I keep coming back to:** what becomes possible when AI is part of the product architecture — not a chat box bolted on at the end?
+**GDDAO is the flagship product I currently lead.** I own product direction across the platform and its AI capabilities, connecting data collection, automated analysis, AI agents, SROI / ESG / SDG workflows, and impact reporting into one product system.
 
-<br clear="right" />
-
-### Current product work
-
-**Product Manager · GUPPY DIGITAL / GDDAO** — product strategy and roadmap for an AI-native impact-management platform connecting data collection, automated analysis, AI agents, SROI / ESG / SDG workflows, and impact reporting.
-
-| Product signal | Scope |
+| Operator signal | Scope |
 |---|---|
 | **~10-person cross-functional team** | Product, engineering, operations, and delivery coordination |
 | **NT$5M AI R&D initiative** | Architecture definition for a government-supported AI program |
 | **50+ NPOs · 15+ enterprises** | Platform adoption and real-world operating context |
 | **ISO/IEC 27001:2022** | Execution lead for implementation |
 
-<br />
-
-<img src="./assets/build-spectrum.svg" width="100%" alt="Build spectrum across local AI, realtime, evidence systems, interactive products, SaaS and hardware" />
+> **How I operate:** `DISCOVER → DEFINE → BUILD → SHIP → MEASURE → ITERATE`
 
 ---
 
@@ -248,8 +240,8 @@ I keep the public repos focused on things that are useful to inspect, run, fork,
 
 ### Build the wedge. Ship the system. Learn from reality.
 
-**Mason Hsu · Product Builder · AI-native systems · Taipei, Taiwan 🇹🇼**
+**Mason Hsu · Product Director & Head of AI · Taipei, Taiwan 🇹🇼**
 
-<a href="https://github.com/mason131928">GitHub</a> · <a href="https://hashagent.pages.dev">HashAgent</a> · <a href="https://imyuelao.com">月老值班中</a>
+<a href="https://github.com/mason131928">GitHub</a> · <a href="https://gddao.com">GDDAO</a> · <a href="https://hashagent.pages.dev">HashAgent</a> · <a href="https://imyuelao.com">月老值班中</a>
 
 </div>
